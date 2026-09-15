@@ -4,34 +4,279 @@
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "Placeholder."
+    "text": "I teach statistics at every level at WPI, from the first applied statistics course to the graduate course in statistical genetics. My aim is understanding that lasts beyond the exam. For the courses I have redesigned I built topic-based materials, with lecture notes, recorded lectures, R examples and practice problems, and I share them with the colleagues who teach these courses."
+  },
+  {
+    "objectID": "teaching/index.html#courses",
+    "href": "teaching/index.html#courses",
+    "title": "Teaching",
+    "section": "Courses",
+    "text": "Courses\n\n\n\n\n\n\n\nCourse\nTitle\n\n\n\n\nMA 2611\nApplied Statistics I\n\n\nMA 2610\nApplied Statistics for Life Sciences\n\n\nMA 2631\nProbability\n\n\nMA 540 / MA 4631\nProbability and Mathematical Statistics I\n\n\nMA 541 / MA 4632\nProbability and Mathematical Statistics II\n\n\nMA 542\nRegression Analysis\n\n\nMA 546\nDesign and Analysis of Experiments\n\n\nBCB 4004 / MA 4603\nStatistical Methods in Genetics and Bioinformatics (undergraduate)\n\n\nBCB 504 / MA 584\nStatistical Methods in Genetics and Bioinformatics (graduate)\n\n\nBCB 510\nBCB Seminar\n\n\n\nCourse materials for enrolled students are on Canvas.\nStatistical Methods in Genetics and Bioinformatics is a course I created as the foundational statistics course of the Bioinformatics and Computational Biology (BCB) degrees. It was taught as one cross-listed course until 2024, when growing enrollment led to separate undergraduate and graduate versions. The graduate version now runs as a semester-long course with a research-oriented class project, and it integrates AI-assisted learning into the coursework."
+  },
+  {
+    "objectID": "teaching/index.html#programs",
+    "href": "teaching/index.html#programs",
+    "title": "Teaching",
+    "section": "Programs",
+    "text": "Programs\nI co-founded WPI’s Bioinformatics and Computational Biology program and helped create its BS, BS/MS, MS and PhD degrees. I also co-created the PhD program in Statistics in the Department of Mathematical Sciences."
+  },
+  {
+    "objectID": "teaching/index.html#teaching-grants",
+    "href": "teaching/index.html#teaching-grants",
+    "title": "Teaching",
+    "section": "Teaching grants",
+    "text": "Teaching grants\n\n\nWPI Summer Sandbox Grant,\n\nStructured AI Tutoring for Applied Statistics: an AI-assisted practice tool for MA 2611, a course that serves more than 700 students a year. The tool delivers curated problems with adaptive difficulty and AI-generated feedback aligned to the course, through instructor-guided prompts and instructor-curated content rather than unstructured chatbot use."
+  },
+  {
+    "objectID": "teaching/index.html#student-projects",
+    "href": "teaching/index.html#student-projects",
+    "title": "Teaching",
+    "section": "Student projects",
+    "text": "Student projects\nStudents work with me on research projects at every level: PhD dissertations, master’s theses and capstone projects, undergraduate Major Qualifying Projects (MQPs) and Interactive Qualifying Projects (IQPs), and independent studies. So far I have advised 5 PhD dissertations, 7 master’s theses, 19 master’s capstone and research projects, 8 MQPs and 1 IQP, and 73 independent-study and project courses. The People page lists the projects.\nTypical topics are statistical genetics and bioinformatics; statistical theory and methodology for signal detection, decision-making, prediction and causal inference; computational statistics, including the implementation of methods for large data and the development of R packages; and statistical applications in engineering, experimental design and business. Students are welcome to bring their own ideas that match the group’s interests.\nWhat I expect. Research requires self-motivation, curiosity, patience and effort, and a dedication to excellent work that goes beyond earning the credits. A successful project usually takes 20 hours a week or more.\nHow a project runs. We meet weekly to discuss progress, challenges and next steps. Students submit weekly reports summarizing their methods and results, with the code organized on GitHub. Each project ends with a final report. For an outstanding project, I help prepare a manuscript for publication.\nUndergraduates at WPI can read more about the MQP and the IQP. If you are interested in a project, email me with a short note on your background and what you would like to work on."
   },
   {
     "objectID": "publications/index.html",
     "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "Placeholder."
+    "text": "Published and accepted journal articles, by year and, within a year, in the order of my curriculum vitae; accepted papers are marked, and manuscripts under review are listed first. Underlined authors were students or postdocs I advised. Also on Google Scholar and ORCID. Research software is in the ZWuLab GitHub organization."
+  },
+  {
+    "objectID": "publications/index.html#under-review",
+    "href": "publications/index.html#under-review",
+    "title": "Publications",
+    "section": "Manuscripts under review",
+    "text": "Manuscripts under review\n\nShaoming Yin and Zheyang Wu (2026). Evaluating cohort balancing methods for estimating marginal hazard ratios in small to moderate sample sizes. Statistics in Medicine. (Submitted.)"
+  },
+  {
+    "objectID": "publications/index.html#y2026",
+    "href": "publications/index.html#y2026",
+    "title": "Publications",
+    "section": "2026",
+    "text": "2026\n\nDavid Clement, Emmanuel Agu, Atifa Sarwar, Deepak Kumar, Zheyang Wu and Jean A. King (2026). Machine learning Prediction of Self-Reported Real-World Knee Osteoarthritis Pain from Wearable Accelerometer-Derived Gait Features. Scientific Reports. (Accepted.) doi:10.1038/s41598-026-64594-6\nShaoming Yin, Jianchang Lin and Zheyang Wu (2026). Augmenting clinical trial data with external controls through energy balancing weighted power prior. Statistics in Biopharmaceutical Research. doi:10.1080/19466315.2025.2587049\nShaoming Yin, Zheyang Wu and Jianchang Lin (2026). Assumption-agnostic deep learning framework for holistic clinical trial monitoring. Therapeutic Innovation & Regulatory Science, Volume 60, pages 782-797. doi:10.1007/s43441-026-00915-1\nXiaohui Chen, Fangfang Wang, Hong Zhang and Zheyang Wu (2026). On Correlation Robustness of Supremum-based \\(p\\)-Value Combination Tests. Statistica Sinica. (Accepted.) doi:10.5705/ss.202025.0263\nHong Zhang, Ming Liu, John E. Landers and Zheyang Wu (2026). Integrated Weighted Association Test with Application to Genetic Association Studies. Annals of Applied Statistics. (Accepted.)\nGonzalo Contador and Zheyang Wu (2026). Optimal Adjustment and Combination of Independent Discrete p-Values. Journal of Computational and Graphical Statistics. (Accepted.) doi:10.1080/10618600.2026.2732157"
+  },
+  {
+    "objectID": "publications/index.html#y2025",
+    "href": "publications/index.html#y2025",
+    "title": "Publications",
+    "section": "2025",
+    "text": "2025\n\nYanwen Zhu, Chen Zhao, Yishuo Xu, Zheyang Wu, Akiko Maehara, Liang Wang, Dirui Zhang, Ming Zeng, Rui Lv, Xiaoya Guo, Mengde Huang, Minglong Chen, Gary S. Mintz, Dalin Tang, Haibo Jia and Bo Yu (2025). Computational Modeling to Predict Conservative Treatment Outcome for Patients with Plaque Erosion: An OCT-Based Patient-Specific FSI Modeling Study. Computer Modeling in Engineering & Sciences, Published Online: 01 August 2025. doi:10.32604/cmes.2025.067039\nGonzalo Contador and Zheyang Wu (2025). A minimum Wasserstein distance approach to Fisher’s combination of independent discrete p-values. Scandinavian Journal of Statistics (SJS), 52(3):1281–1300. doi:10.1111/sjos.12787"
+  },
+  {
+    "objectID": "publications/index.html#y2024",
+    "href": "publications/index.html#y2024",
+    "title": "Publications",
+    "section": "2024",
+    "text": "2024\n\nYanwen Zhu, Chen Zhao, Zheyang Wu, Akiko Maehara, Dalin Tang, Liang Wang, Zhanqun Gao, Yishuo Xu, Rui Lv, Mengde Huang, Xiaoguo Zhang, Jian Zhu, Haibo Jia, Bo Yu, Minglong Chen and Gary S. Mintz (2024). Comparison and Identification of Human Coronary Plaques with/without Erosion Using Patient-Specific Optical Coherence Tomography-Based Fluid-Structure Interaction Models: A Pilot Study. Biomechanics and Modeling in Mechanobiology, 1-19. doi:10.1007/s10237-024-01906-7\nNan Lin, Shaoju Wu, Zheyang Wu and Songbai Ji (2024). Efficient Generation of Pretraining Samples for Developing a Deep Learning Brain Injury Model via Transfer Learning. Annals of Biomedical Engineering (ABME), 52(10):2726-2740. doi:10.1007/s10439-023-03354-3"
+  },
+  {
+    "objectID": "publications/index.html#y2023",
+    "href": "publications/index.html#y2023",
+    "title": "Publications",
+    "section": "2023",
+    "text": "2023\n\nHong Zhang, Ming Liu, Jiashun Jin and Zheyang Wu (2023). Signal-noise ratio of genetic associations and statistical power of SNP-set tests. Annals of Applied Statistics, 17(3): 2410-2431 (September 2023). doi:10.1214/22-AOAS1725\nLiang Wang, Akiko Maehara, Xiaoguo Zhang, Rui Lv, Yangyang Qu, Xiaoya Guo, Jian Zhu, Zheyang Wu, Kristen L. Billiar, Jie Zheng, Lijuan Chen, Genshan Ma, Gary S. Mintz and Dalin Tang (2023). Quantification of Patient-Specific Coronary Material Properties and Their Correlations with Plaque Morphological Characteristics: an In Vivo IVUS Study. International Journal of Cardiology. doi:10.1016/j.ijcard.2022.09.051\nShaoju Wu, Wei Zhao, Zheyang Wu, Thomas McAllister, Jingwen Hu and Songbai Ji (2023). Approximating Subject-specific Brain Injury Models via Scaling Based on Head-brain Morphological Relationships. Biomechanics and Modeling in Mechanobiology, 22(1):159–175. doi:10.1007/s10237-022-01638-6"
+  },
+  {
+    "objectID": "publications/index.html#y2022",
+    "href": "publications/index.html#y2022",
+    "title": "Publications",
+    "section": "2022",
+    "text": "2022\n\nXiaohui Chen, Hong Zhang, Ming Liu, Hong-Wen Deng and Zheyang Wu (2022). Simultaneous detection of novel genes and SNPs by adaptive p-value combination. Frontiers in Genetics. doi:10.3389/fgene.2022.1009428\nHong Zhang and Zheyang Wu (2022). The General Goodness-of-fit Tests for Correlated Data. Computational Statistics & Data Analysis, Vol. 167. 107379. doi:10.1016/j.csda.2021.107379\nHong Zhang and Zheyang Wu (2022). The Generalized Fisher’s Combination and Accurate p-Value Calculation under Dependence. Biometrics. doi:10.1111/biom.13634"
+  },
+  {
+    "objectID": "publications/index.html#y2021",
+    "href": "publications/index.html#y2021",
+    "title": "Publications",
+    "section": "2021",
+    "text": "2021\n\nHong Zhang, Judong Shen and Zheyang Wu (2021). An efficient and accurate approximation to the distribution of quadratic forms of Gaussian variables. Journal of Computational & Graphical Statistics. doi:10.1080/10618600.2021.2000423\nJanel O. Johnson et al. (2021). Association of Variants in the SPTLC1 Gene With Juvenile Amyotrophic Lateral Sclerosis. JAMA Neurology, co-authorship through Familial ALS consortium. doi:10.1001/jamaneurol.2021.2598\nWei Zhao, Zheyang Wu and Songbai Ji (2021). Displacement error propagation from embedded markers to brain strain. Journal of Biomechanical Engineering, 143(10):101001. doi:10.1115/1.4051050\nHan Yu, Pedro J. del Nido, Tal Geva, Chun Yan, Zheyang Wu, Rahul H. Rathod, Xueying Huang, Kristen L. Billiar and Dalin Tang (2021). A Novel Pulmonary Valve Replacement Surgery Strategy Using Contracting Band for Patients with Repaired Tetralogy of Fallot: An MRI-Based Multi-Patient Modeling Study. Frontiers in Bioengineering and Biotechnology. doi:10.3389/fbioe.2021.638934"
+  },
+  {
+    "objectID": "publications/index.html#y2020",
+    "href": "publications/index.html#y2020",
+    "title": "Publications",
+    "section": "2020",
+    "text": "2020\n\nLiang Wang, Dalin Tang, Akiko Maehara, Zheyang Wu, Chun Yang, David Muccigrosso, Mitsuaki Matsumura, Jie Zheng, Richard Bach, Kristen L. Billiar, Gregg W Stone and Gary S. Mintz (2020). Using intravascular ultrasound image-based fluid-structure interaction models and machine learning methods to predict human coronary plaque vulnerability change. Computer Methods in Biomechanics and Biomedical Engineering. doi:10.1080/10255842.2020.1795838\nHan Yu, Pedro J del Nido, Tal Geva, Chun Yang, Zheyang Wu, Rahul H Rathod, Xueying Huang, Kristen L Billiar and Dalin Tang (2020). Multi-Band Surgery for Repaired Tetralogy of Fallot Patients with Reduced Right Ventricle Ejection Fraction: A Pilot Study. Frontiers in Physiology, published: 19 March 2020. doi:10.3389/fphys.2020.00198\nHong Zhang, Jiashun Jin and Zheyang Wu (2020). Distributions and Power of Optimal Signal-Detection Statistics in Finite Case. IEEE Transactions on Signal Processing, Vol. 68, 1021–1033. link\nHong Zhang, Tiejun Tong, John E. Landers and Zheyang Wu (2020). TFisher: A powerful truncation and weighting procedure for combining \\(p\\)-values. Annals of Applied Statistics, 14(1): 178–201. doi:10.1214/19-AOAS1302\nLei Ding, Hannah Schluter, Matthew Szcus, Rushdy Ahmad, Zheyang Wu and Weifeng Xu (2020). Comparison of statistical tests and power analysis for phosphoproteomic data. Journal of Proteome Research. doi:10.1021/acs.jproteome.9b00280\nKaren L. Troy, Megan E. Mancuso, Joshua E. Johnson, Zheyang Wu, Thomas J. Schnitzer and Tiffiny A. Butler (2020). Bone Adaptation in Adult Women Is Related to Loading Dose: A 12-Month Randomized Controlled Trial. Journal of Bone and Mineral Research., 10 March 2020. doi:10.1002/jbmr.3999"
+  },
+  {
+    "objectID": "publications/index.html#y2019",
+    "href": "publications/index.html#y2019",
+    "title": "Publications",
+    "section": "2019",
+    "text": "2019\n\nStephen J. Foley, Zheyang Wu and Samuel M. Politz (2019). A C. elegans MAP kinase pathway is required for wild-type display of an L1-specific surface antigen (srf-6 is nsy-1 III). microPublication Biology – Research Results, Published: 2019/07/04. doi:10.17912/micropub.biology.000129\nHan Yu, Dalin Tang, Rahul H. Rathod, Tal Geva, Chun Yang, Zheyang Wu, Xueying Huang, Kristen L. Billiar and Pedro J. del Nido (2019). Ventricle Stress/Strain Comparisons between Tetralogy of Fallot Patients and Healthy Using Models with Different Zero-Load Diastole and Systole Morphologies. PLoS One, 14;14(8):e0220328. eCollection 2019. doi:10.1371/journal.pone.0220328\nQingyu Wang, Dalin Tang, Liang Wang, Gador Canton, Zheyang Wu, Thomas S. Hatsukami, Kristen L. Billiar and Chun Yuan (2019). Combining Morphological and Biomechanical Factors for Optimal Carotid Plaque Progression Prediction: An MRI-Based Follow-Up Study Using 3D Thin-Layer Models. International Journal of Cardiology, 15; 293: 266-271. doi:10.1016/j.ijcard.2019.07.005\nLiang Wang, Dalin Tang, Akiko Maehara, David Molony, Jie Zheng, Habib Samady, Zheyang Wu, Wenbin Lu, Jian Zhu, Genshan Ma, Don P. Giddens and Gary S. Mintz (2019). Multi-Factor Decision-Making Strategy for Better Coronary Plaque Burden Increase Prediction: A Patient-Specific 3D FSI Study Using IVUS Follow-Up Data. Biomechanics and Modeling in Mechanobiology, 2019, Oct;18(5):1269-1280. 2019 Apr 1. doi:10.1007/s10237-019-01143-3\nQingyu Wang, Dalin Tang, Gador Canton, Thomas S. Hatsukami, Kristen L Billiar, Zheyang Wu and Chun Yan (2019). Impact Of Patient-Specific In Vivo Vessel Material Properties On Carotid Atherosclerotic Plaque Stress/Strain Calculations. International Journal of Computational Methods, 16(3). doi:10.1142/S0219876218420021\nHan Yu, Pedro J. del Nido, Tal Geva, Chun Yang, Alexander Tang, Zheyang Wu, Rahul Rathod, Xueying Huang, Kristen Billiar and Dalin Tang (2019). Patient-Specific In Vivo Right Ventricle Material Parameter Estimation for Patients with Tetralogy of Fallot Using MRI-Based Models with Different Zero- Load Diastole and Systole Morphologies. International Journal of Cardiology, 276: 93–99. doi:10.1016/j.ijcard.2018.09.030"
+  },
+  {
+    "objectID": "publications/index.html#y2018",
+    "href": "publications/index.html#y2018",
+    "title": "Publications",
+    "section": "2018",
+    "text": "2018\n\nQingyu Wang, Dalin Tang, Gador Canton, Zheyang Wu, Thomas S Hatsukami, Kristen L Billiar and Chun Yuan (2018). Stress-based Plaque Vulnerability Index and Assessment for Carotid Atherosclerotic Plaques Using Patient-Specific Vessel Material Properties. Molecular & Cellular Biomechanics, 15(4):189-201. doi:10.32604/mcb.2018.04572\nYunliang Cai, Shaoju Wu, Wei Zhao, Zhigang Li, Zheyang Wu and Songbai Ji (2018). Concussion classification via deep learning using whole-brain white matter fiber strains. PLoS ONE, 13(5): e0197992. doi:10.1371/journal.pone.0197992\nLiang Wang, Akiko Maehara, Zheyang Wu, Chun Yang, David Muccigrosso, Jie Zheng, Richard Bach, Kristen L Billiar, Gary S Mintz and Dalin Tang (2018). Fluid-Structure Interaction Models Based on Patient-Specific IVUS at Baseline and Follow-Up for Prediction of Coronary Plaque Progression by Morphological and Biomechanical Factors: A Preliminary Study. Journal of Biomechanics, 68: 43–50. doi:10.1016/j.jbiomech.2017.12.007"
+  },
+  {
+    "objectID": "publications/index.html#y2017",
+    "href": "publications/index.html#y2017",
+    "title": "Publications",
+    "section": "2017",
+    "text": "2017\n\nDalin Tang, Heng Zuo, Chun Yang, Zheyang Wu, Xueying Huang, Rahul H. Rathod, Alexander Tang, Kristen L. Billiar and Tal Geva (2017). Comparison of Right Ventricle Morphological and Mechanical Characteristics for Healthy and Patients with Tetralogy of Fallot: An In Vivo MRI-Based Modeling Study. Molecular & Cellular Biomechanics, 14(3): 137–151.\nQingyu Wang, Gador Canton, Jian Guo, Xiaoya Guo, Thomas S. Hatsukami, Kristen L. Billiar, Chun Yuan, Zheyang Wu and Dalin Tang (2017). MRI-based patient-specific human carotid atherosclerotic vessel material property variations in patients, vessel location and long-term follow up. PLoS ONE, 12(7): e0180829. doi:10.1371/journal.pone.0180829\nAllen H. Hoffman, Zhongzhao Teng, Jie Zheng, Zheyang Wu, Pamela K. Woodard, Kristen L. Billiar and Dalin Tang (2017). Stiffness Properties of Adventitia, Media and Full Thickness Human Atherosclerotic Carotid Arteries in the Axial and Circumferential Directions. Journal of Biomechanical Engineering, 139(12). doi:10.1115/1.4037794"
+  },
+  {
+    "objectID": "publications/index.html#y2016",
+    "href": "publications/index.html#y2016",
+    "title": "Publications",
+    "section": "2016",
+    "text": "2016\n\nLongling Fan, Jing Yao, Chun Yang, Zheyang Wu, Di Xu and Dalin Tang (2016). Material Stiffness Parameters as Potential Predictors of Presence of Left Ventricle Myocardial Infarction: 3D Echo-Based Computational Modeling Study. BioMedical Engineering Online, 2016 Apr 5;15:34. doi:10.1186/s12938-016-0151-8\nDalin Tang, Chun Yang, Pedro J. del Nido, Heng Zuo, Rahul H. Rathod, Xueying Huang, Vasu Gooty, Alexander Tang, Kristen L. Billiar, Zheyang Wu and Tal Geva (2016). Mechanical stress is associated with right ventricular response to pulmonary valve replacement in patients with repaired tetralogy of fallot. The Journal of Thoracic and Cardiovascular Surgery, 151(3):687-694.e3. doi:10.1016/j.jtcvs.2015.09.106\nDalin Tang, Pedro J del Nido, Chun Yang, Heng Zuo, Xueying Huang, Rahul R Rathod, Vasu Gooty, Alexander Tang, Zheyang Wu, Kristen L Billiar and Tal Geva (2016). Patient-Specific MRI-Based Right Ventricle Models Using Different Zero-Load Diastole and Systole Geometries for Better Cardiac Stress and Strain Calculations and Pulmonary Valve Replacement Surgical Outcome Predictions. PLoS ONE, 11(9):e0162986. doi:10.1371/journal.pone.0162986"
+  },
+  {
+    "objectID": "publications/index.html#y2015",
+    "href": "publications/index.html#y2015",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\n\nDongni Zhang, Hongzhu Cui, Dmitry Korkin and Zheyang Wu (2015). Incorporation of protein binding effects into likelihood ratio test for exome sequencing data. BMC Proceedings, 9 Suppl 8:S37. doi:10.1186/s12919-016-0043-8\nLiang Wang, Jie Zheng, Akiko Maehara, Chun Yang, Kristen L. Billiar, Zheyang Wu, Richard Bach, David Muccigrosso, Gary S. Mintz and Dalin Tang (2015). Morphological and Stress Vulnerability Indices for Human Coronary Plaques and Their Correlations with Cap Thickness and Lipid Percent: An IVUS-Based Fluid-Structure Interaction Multi-Patient Study. PLoS Computational Biology, 11(12):e1004652. eCollection 2015. doi:10.1371/journal.pcbi.1004652\nElizabeth T. Cirulli et al. (2015). Exome sequencing in amyotrophic lateral sclerosis identifies risk genes and pathways. Science, 347(6229): 1436-1441. (Coauthor ship as part of FALS Sequencing Consortium). doi:10.1126/science.aaa3650\nLiang Wang, Zheyang Wu, Chun Yang, Jie Zheng, Richard Bach, David Muccigrosso, Kristen Billiar, Akiko Maehara, Gary S. Mintz and Dalin Tang (2015). IVUS-Based FSI Models for Human Coronary Plaque Progression Study: Components, Correlation and Predictive Analysis. Annals of Biomedical Engineering, 43(1): 107-121. doi:10.1007/s10439-014-1118-1"
+  },
+  {
+    "objectID": "publications/index.html#y2014",
+    "href": "publications/index.html#y2014",
+    "title": "Publications",
+    "section": "2014",
+    "text": "2014\n\nBradley N. Smith, Nicola Ticozzi, Claudia Fallini, Athina Soragia Gkazi, Simon Topp, Kevin P. Kenna, Emma L. Scotter, Jason Kost, Pamela Keagle, Jack W. Miller, Daniela Calini, Caroline Vance, Eric W. Danielson, Claire Troakes, Cinzia Tiloca, Safa Al-Sarraj, Elizabeth A. Lewis, Andrew King, Claudia Colombrita, Viviana Pensato, Barbara Castellotti, Jacqueline de Belleroche, Frank Baas, Anneloor LMA ten Asbroek, Peter C. Sapp, Diane McKenna-Yasek, Russell L. McLaughlin, Meraida Polak, Seneshaw Asress, Jesus Esteban-Perez, Jose Luis Mun oz-Blanco, Michael Simpson, SLAGEN Consortium, Wouter van Rheenen, Frank P. Diekstra, Giuseppe Lauria, Stefano Duga, Stefania Corti, Cristina Cereda, Lucia Corrado, Gianni Soraru, Karen E. Morrison, Kelly L. Williams, Garth A. Nicholson, Ian P. Blair, Patrick A. Dion, Claire S. Leblond, Guy A. Rouleau, Orla Hardiman, Jan H. Veldink, Leonard H. van den Berg, Ammar Al-Chalabi, Hardev Pall, Pamela J. Shaw, Martin R. Turner, Kevin Talbot, Franco Taroni, Alberto Garcia-Redondo, Zheyang Wu, Jonathan D. Glass, Cinzia Gellera, Antonia Ratti, Robert H. Brown, Jr., Vincenzo Silani, Christopher E. Shaw and John E. Landers (2014). Exome-wide rare variant analysis identifies TUBA4A mutations associated with familial ALS. Neuron, 84(2):324-31. doi:10.1016/j.neuron.2014.09.027\nZheyang Wu, Yiming Sun, Shiquan He, Judy Cho, Hongyu Zhao and Jiashun Jin (2014). Detection Boundary and Higher Criticism for Weak and Sparse Genetic Effects. The Annals of Applied Statistics, 8(2): 824-851. doi:10.1214/14-AOAS724\nMarisa Mariani, Mark McHugh, Marco Petrillo, Steven Sieber, Shiquan He, Mirko Andreoli, Zheyang Wu, Paul Fiedler, Giovanni Scambia, Shohreh Shahabi and Cristiano Ferlini (2014). HGF/c-Met Axis Drives Cancer Aggressiveness in the Neo-adjuvant Setting of Ovarian Cancer. Oncotarget, 5(13):4855-67.\nMarisa Mariani, Shiquan He, Mark McHugh, Mirko Andreoli, Deep Pandya, Steven Sieber, Zheyang Wu, Paul Fiedler, Shohreh Shahabi and Cristiano Ferlini (2014). Integrated Multidimensional Analysis is Required for Accurate Prognostic Biomarkers in Colorectal Cancer. PLoS One, 9(7):e101065. doi:10.1371/journal.pone.0101065\nJing Xuan, Li Yang and Zheyang Wu (2014). Higher Criticism Approach to Detect Rare Variants Using Whole Genome Sequencing Data. BMC Proceedings, 8(Suppl 1):S14. doi:10.1186/1753-6561-8-S1-S14\nYiwei Liu, Jing Xuan and Zheyang Wu (2014). Extended \\(T^2\\) Tests for Longitudinal Family Data in Whole Genome Sequencing Studies. BMC Proceedings, 8(Suppl 1):S40. doi:10.1186/1753-6561-8-S1-S40\nLi Yang, Jing Xuan and Zheyang Wu (2014). A Goodness-of-Fit Association Test for Whole Genome Sequencing Data. BMC Proceedings, 8(Suppl 1):S51. doi:10.1186/1753-6561-8-S1-S51\nTaoye Chen, Patchara Santawisook and Zheyang Wu (2014). A Multi-level Model for Analyzing Whole Genome Sequencing Family Data with Longitudinal Traits. BMC Proceedings, 8(Suppl 1): S86. doi:10.1186/1753-6561-8-S1-S86\nZheyang Wu, Yijuan Hu and Phillip E. Melton (2014). Longitudinal Data Analysis for Genetic Studies in the Whole-Genome Sequencing Era. Genetic Epidemiology, 38(S1), S74 – S80. doi:10.1002/gepi.21829"
+  },
+  {
+    "objectID": "publications/index.html#y2013",
+    "href": "publications/index.html#y2013",
+    "title": "Publications",
+    "section": "2013",
+    "text": "2013\n\nDalin Tang, Chun Yang, Gador Canton, Zheyang Wu, Thomas Hatsukami and Chun Yuan (2013). Correlations between Carotid Plaque Progression and Mechanical Stresses Change Sign over Time: A Patient Follow Up Study Using MRI and 3D FSI Models. BioMedical Engineering, 12(105). doi:10.1186/1475-925X-12-105\nZheyang Wu and Huibin Zhou (2013). Model Selection and Sharp Asymptotic Minimaxity. Probability Theory and Related Fields, 156(1-2): 165-191. doi:10.1007/s00440-012-0424-5"
+  },
+  {
+    "objectID": "publications/index.html#y2012",
+    "href": "publications/index.html#y2012",
+    "title": "Publications",
+    "section": "2012",
+    "text": "2012\n\nJing Zhang, Zheyang Wu, Chao Gao and Michael Q. Zhang (2012). High-Order Interactions in Rheumatoid Arthritis Detected by Bayesian Method Using GWAS Data. The American Medical Journal, 3(1): 56-66. doi:10.3844/amjsp.2012.56.66\nSakthikumar Ambady, Zheyang Wu and Tanja Dominko (2012). Identification of Novel MicroRNAs in Xenopus Laevis Metaphase II Arrested Eggs. Genesis, 50: 286-299. doi:10.1002/dvg.22010\nZheyang Wu and Hongyu Zhao (2012). On Model Selection Strategies to Identify Genes Underlying Binary Traits Using Genome-Wide Association Data. Statistica Sinica, 22(3): 1041-1074. doi:10.5705/ss.2010.183"
+  },
+  {
+    "objectID": "publications/index.html#y2011",
+    "href": "publications/index.html#y2011",
+    "title": "Publications",
+    "section": "2011",
+    "text": "2011\n\nAlun Thomas, Haley J Abel, Yanming Di, Laura L Faye, Jing Jin, Jin Liu, Zheyang Wu and Andrew Paterson (2011). Effect of Linkage Disequilibrium on the Identification of Functional Variants. Genetic Epidemiology, 35: S115–S119. doi:10.1002/gepi.20660\nZheyang Wu, Chun Yang and Dalin Tang (2011). In Vivo Serial MRI-Based Models and Statistical Methods to Quantify Sensitivity and Specificity of Mechanical Predictors for Carotid Plaque Rupture: Location and Beyond. Journal of Biomechanical Engineering, 133(6):064503-1. doi:10.1115/1.4004189\nShiquan He and Zheyang Wu (2011). Gene-Based Higher Criticism Methods for Large Scale Exonic SNP Data. BMC Proceedings, 5(Suppl 9):S65. doi:10.1186/1753-6561-5-s9-s65"
+  },
+  {
+    "objectID": "publications/index.html#y2009",
+    "href": "publications/index.html#y2009",
+    "title": "Publications",
+    "section": "2009",
+    "text": "2009\n\nZheyang Wu and Hongyu Zhao (2009). Statistical Power of Model Selection Strategies for Genome-Wide Association Studies. PLoS Genetics, 5(7): e1000582. doi:10.1371/journal.pgen.1000582\nZheyang Wu, Chatchawit Aporntewan, David Ballard, Ji Young Lee, Joon Sang Lee and Hongyu Zhao (2009). Two-Stage Joint Selection Method to Identify Candidate Markers from Genome-Wide Association Studies. BMC Proceedings, 3(Suppl 7):S29. doi:10.1186/1753-6561-3-s7-s29\nDavid Ballard, Chatchawit Aporntewan, Ji Young Lee, Joon Sang Lee, Zheyang Wu and Hongyu Zhao (2009). A Pathway Analysis Applied to GAW 16 Genome Wide Rheumatoid Arthritis Data. BMC Proceedings, 3(Suppl 7):S91. doi:10.1186/1753-6561-3-s7-s91\nChatchawit Aporntewan, David Ballard, Ji Young Lee, Joon Sang Lee, Zheyang Wu and Hongyu Zhao (2009). Gene Hunting of the Genetic Analysis Workshop 16 Rheumatoid Arthritis Data Using Rough Set Theory. BMC Proceedings, 3(Suppl 7):S126. doi:10.1186/1753-6561-3-s7-s126\nJeremiah D. Schuur, Akash Shah, Zheyang Wu, Howard Forman and Cary P. Gross (2009). The Impact of Medicaid Coverage and Reimbursement on Access to Diagnostic Mammography. Cancer, 115(23): 5566 - 5578."
+  },
+  {
+    "objectID": "publications/index.html#y2006",
+    "href": "publications/index.html#y2006",
+    "title": "Publications",
+    "section": "2006",
+    "text": "2006\n\nZhide Fang, Douglas P. Wiens and Zheyang Wu (2006). Locally D-optimal Designs for Multistage Models and Heteroscedastic Polynomial Regression Models. Journal of Statistical Planning and Inference, 136(11):4059-4070. doi:10.1016/j.jspi.2004.11.015\nBrian L. Weiss, Rosa Mouchotte, Rita V. M. Rio, Yi-neng Wu, Zheyang Wu, Abdelaziz Heddi and Serap Aksoy (2006). Interspecific Transfer of Bacterial Endosymbionts between Tsetse Fly Species: Infection Establishment and Effect on Host Fitness. Applied and Environmental Microbiology, 72(11):7013-7021. doi:10.1128/aem.01507-06"
+  },
+  {
+    "objectID": "publications/index.html#book-chapter",
+    "href": "publications/index.html#book-chapter",
+    "title": "Publications",
+    "section": "Book chapter",
+    "text": "Book chapter\n\n\nSong Huang, David Ballard, Zheyang Wu and Hongyu Zhao (2007). Expression quantitative trait loci mapping. In Current Topics in Human Genetics: Studies in Human Diseases, edited by Hong-Wen Deng, Hui Shen, Yong-Jun Liu and Hai Hu. World Scientific, Singapore, pages 379–431."
+  },
+  {
+    "objectID": "publications/index.html#conference-papers",
+    "href": "publications/index.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference papers",
+    "text": "Conference papers\nI also contributed 28 refereed conference papers and abstracts from 2011 to 2019, mostly through the cardiovascular and brain biomechanics collaborations. The list is available on request."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Zheyang Wu",
     "section": "",
-    "text": "Placeholder home page. Content and design follow the plan in 0project/01-website-redesign-design.md."
+    "text": "I am a Professor of Mathematical Sciences at Worcester Polytechnic Institute (WPI). I co-founded WPI’s Bioinformatics and Computational Biology program and teach its core statistics course, and I co-created the department’s PhD program in Statistics.\nMy research develops statistical methods for combining dependent evidence: p-value combination, signal detection, and integrative association testing. The methods are motivated by, and applied to, meta-analysis, whole-genome sequencing studies, statistical genetics, and clinical studies. My group releases the methods as open-source R packages.\nCurriculum vitae (PDF) · Email · Google Scholar · ORCID · GitHub"
+  },
+  {
+    "objectID": "index.html#selected-papers",
+    "href": "index.html#selected-papers",
+    "title": "Zheyang Wu",
+    "section": "Selected papers",
+    "text": "Selected papers\n\nHong Zhang, Ming Liu, John E. Landers and Zheyang Wu (2026). Integrated Weighted Association Test with Application to Genetic Association Studies. Annals of Applied Statistics, accepted.\nXiaohui Chen, Fangfang Wang, Hong Zhang and Zheyang Wu (2026). On Correlation Robustness of Supremum-based p-Value Combination Tests. Statistica Sinica, accepted. doi:10.5705/ss.202025.0263\nGonzalo Contador and Zheyang Wu (2026). Optimal Adjustment and Combination of Independent Discrete p-Values. Journal of Computational and Graphical Statistics, accepted. doi:10.1080/10618600.2026.2732157\nHong Zhang and Zheyang Wu (2022). The Generalized Fisher’s Combination and Accurate p-Value Calculation under Dependence. Biometrics. doi:10.1111/biom.13634\n\nThe full list is on the Publications page. Underlined authors were students or postdocs I advised."
+  },
+  {
+    "objectID": "index.html#software",
+    "href": "index.html#software",
+    "title": "Zheyang Wu",
+    "section": "Software",
+    "text": "Software\nR packages on CRAN: GFisher, TFisher, SetTest, Qapprox and DPComb. The GLOW software for integrative variant-set analysis of whole-genome sequencing data is on GitHub. Details are on the Research page."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Zheyang Wu",
+    "section": "Contact",
+    "text": "Contact\nDepartment of Mathematical Sciences\nWorcester Polytechnic Institute\n100 Institute Road, Worcester, MA 01609, USA\nOffice: Unity Hall 461\nEmail: zheyangwu@wpi.edu\nPhone: (508) 831-5031\nORCID 0000-0003-0641-0791 · WPI profile"
   },
   {
     "objectID": "people/index.html",
     "href": "people/index.html",
     "title": "People",
     "section": "",
-    "text": "Placeholder."
+    "text": "Professor of Mathematical Sciences, Worcester Polytechnic Institute. CV · ORCID · Google Scholar\n\n\nProfessor of Mathematical Sciences, WPI, since 2021. Associate Professor, 2015–2021. Assistant Professor, 2009–2015.\nPh.D. in Biostatistics, Yale University, 2009. M.Phil. in Epidemiology and Public Health, Yale University, 2007. M.S. in Mathematics, University of New Orleans, 2004. B.S., Chongqing University, 1998."
+  },
+  {
+    "objectID": "people/index.html#zheyang-wu",
+    "href": "people/index.html#zheyang-wu",
+    "title": "People",
+    "section": "",
+    "text": "Professor of Mathematical Sciences, Worcester Polytechnic Institute. CV · ORCID · Google Scholar\n\n\nProfessor of Mathematical Sciences, WPI, since 2021. Associate Professor, 2015–2021. Assistant Professor, 2009–2015.\nPh.D. in Biostatistics, Yale University, 2009. M.Phil. in Epidemiology and Public Health, Yale University, 2007. M.S. in Mathematics, University of New Orleans, 2004. B.S., Chongqing University, 1998."
+  },
+  {
+    "objectID": "people/index.html#current-students",
+    "href": "people/index.html#current-students",
+    "title": "People",
+    "section": "Current students",
+    "text": "Current students\n\n\nVictoria Pan (Data Science and Bioinformatics and Computational Biology) and Saahithi Kura (Bioinformatics and Computational Biology), MQP, 2026. GLOW on Hail: Distributed Computing and Application."
+  },
+  {
+    "objectID": "people/index.html#joining-the-group",
+    "href": "people/index.html#joining-the-group",
+    "title": "People",
+    "section": "Joining the group",
+    "text": "Joining the group\nI advise PhD students in the Statistics, Bioinformatics and Computational Biology, and Data Science programs at WPI, master’s students in Applied Statistics and Bioinformatics and Computational Biology, and undergraduates through MQPs, IQPs and independent studies. If our research interests you, email me at zheyangwu@wpi.edu with a short note on your background and what you would like to work on. The Teaching page says how projects run."
+  },
+  {
+    "objectID": "people/index.html#alumni",
+    "href": "people/index.html#alumni",
+    "title": "People",
+    "section": "Alumni",
+    "text": "Alumni\n\nPhD\n\n\nShaoming Yin (Data Science), 2026. Innovative Statistical and Computational Methods for Clinical Trials.\nShuaichuan Feng (Statistics), 2025. Innovative Statistical Methods for Genetic Data Analysis: Heritability Estimation and Rare Variant Analysis by Discrete P-Value Combination.\nMing Liu (Bioinformatics and Computational Biology), 2025. Novel Integrative Analysis of Large Genomic Data.\nXiaohui Chen (Statistics), 2023. Novel Statistical Methods for Aggregating Correlated and Missing Data with Applications to Chronic Disease Research.\nHong Zhang (Statistics), 2018. Novel P-Value Combination Method for Signal Detection in Large-Scale Data Analysis.\n\n\n\n\nPostdoctoral fellows\n\n\nTharindu De Alwis, 2023 (co-advised with Fangfang Wang and Oren Mangoubi).\nGonzalo Contador, 2019–2022 (co-advised with Jian Zou).\nMihnea Stefan Andrei, 2019–2020 (co-advised with Jian Zou).\nYevgeniy M. Ptukhin, 2018–2019 (co-advised with Jian Zou).\n\n\n\n\nMaster’s theses\n\n\nYifan Ma (Applied Statistics), 2023. On Sample Size for Improving Prediction Accuracy of Linear Regression Model.\nRuosi Zhang (Bioinformatics and Computational Biology), 2019. Simulations of Different P-value Combination Methods Using SNPs at Diverse Biology Levels.\nYibo Wu (Bioinformatics and Computational Biology), 2019. Genome Studies of Gene Expression and Alternative Splicing During iPSC Skeletal Muscle Induction and Differentiation.\nSiqin Li (Bioinformatics and Computational Biology), 2018. Genome Studies of Chromatin Accessibility and Gene Expression during iPSC Skeletal Muscle Induction and Differentiation.\nXiaohui Chen (Applied Statistics), 2018. Bahadur Efficiencies for Statistics of Truncated P-Value Combination Methods.\nJiadong Fang (Applied Statistics), 2018. Calculating One-sided P-Value for TFisher Under Correlated Data.\nXue Li (Bioinformatics and Computational Biology), 2015. Predicting Gene Expression through Integrating Epigenetic Data by Mixed-Effect Model.\n\n\n\n\nMaster’s capstone and research projects\n\n\nWesley Lo (Applied Mathematics), 2024. Contextualized Analysis of Anxiety Phenotypes Using All of Us Data.\nUsha Appadu (Bioinformatics and Computational Biology), 2024. A comparative analysis of Alzheimer’s Data from All of Us Program Researcher Workbench using Hail and Plink tools.\nSamuel Berbeco (Applied Statistics), 2023. Testing the Power of the Genomic Burden Test Under Various Weighting Mechanisms.\nJingyan Sun (Bioinformatics and Computational Biology), 2020. Incorporating functional information to genetic association detection by GFisher.\nXuan Jiang (Applied Statistics), 2018. Comparison of several predictive methods of identifying vulnerable plaque progression.\nYifan Zhao (Bioinformatics and Computational Biology), 2017. Understanding the Graphlet Algorithm and Applying it to GWAS Analysis.\nShanzhang Nong (Applied Statistics), 2016. The Algorithm and Computation of the Graphlet Screening Procedure.\nJun Zhang (Applied Statistics), 2016. Use Linear Mixed Effect Model to Control the Dependence in Gene Expression Prediction.\nZhuoying Wang (Applied Statistics), 2015. Apply Orthogonal Matching Pursuit Algorithm to Detection of Missing Heritability.\nYijun Zhang (Applied Statistics), 2015. EM Algorithm and Bayesian Method for Protein Motif Identification.\nJason Kost (Bioinformatics and Computational Biology), 2015. Exome Sequencing Data Process and Analysis for Amyotrophic Lateral Sclerosis.\nLeyi Zhang (Applied Statistics), 2014. \\(L_0\\)-Norm Based Model Selection Strategies for Weak Signal Detection and Gene Hunting.\nHuaming Sun (Applied Statistics), 2014. Differential gene expression analysis of RNA-seq in Caenorhabditis elegans with Cuffdiff, DESeq2 and DEXSeq.\nJing Xuan (Applied Statistics), 2013. Higher Criticism Approach to Detect Rare Variants Using Whole Genome Sequencing Data.\nLi Yang (Applied Statistics), 2013. Novel SNP-set Methods for Genetic Association Study Using Sequencing Data.\nTaoye Chen (Applied Statistics), 2013. A Multi-level Model for Analyzing Whole Genome Sequencing Family Data with Longitudinal Traits.\nLillian Carrasquillo (Industrial Mathematics), 2012. Hypotension in Sepsis ICU Patients: Predictive Value of Attribute Subsets (co-advised with Natasha Markuzon, Draper Laboratory).\nShiquan He (Applied Statistics), 2009. A Review of Linear Regression and Some Basic Proofs for Lasso.\nYa Zhang (Applied Statistics), 2009. Pharmaceutical Market Research Based on Statistical Analysis.\n\n\n\n\nUndergraduate projects\n\n\nPeter Howell and Kylie Hoar, MQP, 2024–2025. Distributed Computing for Association Analysis of Whole Genome Sequencing Data. 2025 Provost’s MQP Award.\nTaya Yakovenko, MQP, 2023–2024. Utilizing Cloud Computing for Whole Genome Sequencing Association Studies.\nEthan D. Gouveia, MQP, 2017–2018. Graphlet Feature Selection.\nKevin Brian Specht, MQP, 2016–2017. Network Medicine (co-advised with Dmitry Korkin).\nJoe Brigham, Jiali Gao, Will Lynch and Josh Nottage, MQP, 2014–2015. Credibility Methods in Life and Disability Insurance (sponsor: Unum Group; co-advised with Jon P. Abraham).\nDongni Zhang, MQP, 2014. Integrating Protein-Protein Interaction Network into Genetic Association Studies.\nYilan Liu, MQP, 2013–2014. GPU-Accelerated Computation for Statistical Analysis of the Next-Generation Sequencing Data.\nJacob Peskoe, MQP, 2012. Evaluation of Different Clustering and Classification Algorithms for Continuous and Discrete Data Sets (sponsor and co-advisor: BAE Systems).\nWilliam Elmore, Tuhina Bhattacharya, Xuyu Qian and Luyang Zhang, IQP, 2011–2012. Impact of new genome technologies."
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Placeholder."
+    "text": "My research develops statistical methods for combining dependent evidence: p-value combination, signal detection and integrative association testing. The pieces of evidence to be combined, whether p-values from related tests, variants in a genomic region, or measurements from the same patients, are usually correlated. We study how to combine such evidence, how to compute the p-values of the combined tests accurately, and what the tests can detect, and we release the methods as R packages. The applications come from collaborations in genetics, neuroscience, biomechanics and clinical trials."
+  },
+  {
+    "objectID": "research/index.html#topics",
+    "href": "research/index.html#topics",
+    "title": "Research",
+    "section": "Topics",
+    "text": "Topics\n\nCombining dependent p-values\nFisher’s combination and its relatives are the workhorses of meta-analysis and of set-based association tests, but their null distributions under dependence are hard to compute. We developed p-value calculations for a general family of Fisher-type statistics under dependence (the GFisher family), truncation and weighting schemes for Fisher’s combination (TFisher), and adjustment and combination methods for discrete p-values, which arise from small-sample and exact tests. Recent work studies the correlation robustness of supremum-based p-value combination tests.\n\nHong Zhang and Zheyang Wu (2022). The Generalized Fisher’s Combination and Accurate p-Value Calculation under Dependence. Biometrics. doi:10.1111/biom.13634\nHong Zhang, Tiejun Tong, John E. Landers and Zheyang Wu (2020). TFisher: A powerful truncation and weighting procedure for combining p-values. Annals of Applied Statistics, 14(1): 178–201. doi:10.1214/19-AOAS1302\nGonzalo Contador and Zheyang Wu (2025). A minimum Wasserstein distance approach to Fisher’s combination of independent discrete p-values. Scandinavian Journal of Statistics, 52(3): 1281–1300. doi:10.1111/sjos.12787\nXiaohui Chen, Fangfang Wang, Hong Zhang and Zheyang Wu (2026). On Correlation Robustness of Supremum-based p-Value Combination Tests. Statistica Sinica, accepted. doi:10.5705/ss.202025.0263\n\n\n\nSignal detection: theory and computation\nWhen a few weak signals hide among many null features, the question is which statistics can detect them, and at what signal strength. We study detection boundaries and the finite-sample distributions of signal-detection statistics such as Higher Criticism and Berk-Jones, and we build approximations for the distributions that these and other tests need, including quadratic forms of Gaussian variables.\n\nZheyang Wu, Yiming Sun, Shiquan He, Judy Cho, Hongyu Zhao and Jiashun Jin (2014). Detection Boundary and Higher Criticism for Weak and Sparse Genetic Effects. The Annals of Applied Statistics, 8(2): 824–851. doi:10.1214/14-AOAS724\nHong Zhang, Jiashun Jin and Zheyang Wu (2020). Distributions and Power of Optimal Signal-Detection Statistics in Finite Case. IEEE Transactions on Signal Processing, 68: 1021–1033. link\nHong Zhang, Judong Shen and Zheyang Wu (2021). An efficient and accurate approximation to the distribution of quadratic forms of Gaussian variables. Journal of Computational and Graphical Statistics. doi:10.1080/10618600.2021.2000423\nZheyang Wu and Huibin Zhou (2013). Model Selection and Sharp Asymptotic Minimaxity. Probability Theory and Related Fields, 156(1-2): 165–191. doi:10.1007/s00440-012-0424-5\n\n\n\nIntegrative association testing for sequencing studies\nWhole-genome sequencing studies test regions that hold many rare variants of small effect. Power depends on how the variants are weighted and how their evidence is integrated. We develop integrated weighted association tests and study the signal-to-noise ratio of genetic associations, and we apply this work in genetic studies of amyotrophic lateral sclerosis (ALS) and osteoporosis. The GLOW software below implements integrative variant-set association tests with optimized weights for whole-genome sequencing studies.\n\nHong Zhang, Ming Liu, John E. Landers and Zheyang Wu (2026). Integrated Weighted Association Test with Application to Genetic Association Studies. Annals of Applied Statistics, accepted.\nHong Zhang, Ming Liu, Jiashun Jin and Zheyang Wu (2023). Signal-noise ratio of genetic associations and statistical power of SNP-set tests. Annals of Applied Statistics, 17(3): 2410–2431. doi:10.1214/22-AOAS1725\nXiaohui Chen, Hong Zhang, Ming Liu, Hong-Wen Deng and Zheyang Wu (2022). Simultaneous detection of novel genes and SNPs by adaptive p-value combination. Frontiers in Genetics. doi:10.3389/fgene.2022.1009428\nBradley N. Smith et al. (2014). Exome-wide rare variant analysis identifies TUBA4A mutations associated with familial ALS. Neuron, 84(2): 324–331. doi:10.1016/j.neuron.2014.09.027\n\n\n\nClinical and biomedical studies\nWith clinicians and engineers we design and analyse studies where the statistical question is part of the science: augmenting clinical trial data with external controls, and an assumption-agnostic deep learning framework for trial monitoring; predicting outcomes from biomechanical models of atherosclerotic plaques and of the brain under impact; and predicting patient-reported pain from wearable sensors.\n\nShaoming Yin, Jianchang Lin and Zheyang Wu (2026). Augmenting clinical trial data with external controls through energy balancing weighted power prior. Statistics in Biopharmaceutical Research. doi:10.1080/19466315.2025.2587049\nShaoming Yin, Zheyang Wu and Jianchang Lin (2026). Assumption-agnostic deep learning framework for holistic clinical trial monitoring. Therapeutic Innovation & Regulatory Science, 60: 782–797. doi:10.1007/s43441-026-00915-1\nDavid Clement, Emmanuel Agu, Atifa Sarwar, Deepak Kumar, Zheyang Wu and Jean A. King (2026). Machine learning Prediction of Self-Reported Real-World Knee Osteoarthritis Pain from Wearable Accelerometer-Derived Gait Features. Scientific Reports, accepted. doi:10.1038/s41598-026-64594-6\nNan Lin, Shaoju Wu, Zheyang Wu and Songbai Ji (2024). Efficient Generation of Pretraining Samples for Developing a Deep Learning Brain Injury Model via Transfer Learning. Annals of Biomedical Engineering, 52(10): 2726–2740. doi:10.1007/s10439-023-03354-3"
+  },
+  {
+    "objectID": "research/index.html#software",
+    "href": "research/index.html#software",
+    "title": "Research",
+    "section": "Software",
+    "text": "Software\nResearch software is in the ZWuLab GitHub organization; the first five packages below are on CRAN.\n\n\n\n\n\n\n\n\nPackage\nWhat it does\nWhere\n\n\n\n\nGFisher\np-values for the general family of Fisher-type combination statistics (Fisher, Good, Lancaster) under dependence\nCRAN · GitHub · docs\n\n\nTFisher\noptimal thresholding and weighting for Fisher’s p-value combination\nCRAN · GitHub\n\n\nDPComb\ncombination tests for discrete p-values\nCRAN · GitHub\n\n\nSetTest\ngroup-testing procedures for signal detection and goodness of fit: Higher Criticism, Berk-Jones, one-sided Kolmogorov-Smirnov and phi-divergence tests, with distributions, power and random numbers\nCRAN · GitHub\n\n\nQapprox\ntail probabilities of quadratic forms of Gaussian variables\nCRAN · GitHub\n\n\nGLOWr\nintegrative variant-set association analysis with optimized weights for whole-genome sequencing studies\nGitHub · docs\n\n\nGLOWpipeline\ngenome-wide GLOW scans: chunking, cluster job arrays, aggregation and locus merging\nGitHub · docs\n\n\nGLOWanalyses\nrunnable end-to-end workflow templates, configurations and batch scripts for sequencing studies\nGitHub"
+  },
+  {
+    "objectID": "research/index.html#funding",
+    "href": "research/index.html#funding",
+    "title": "Research",
+    "section": "Funding",
+    "text": "Funding\n\nCurrent\n\n\nPrincipal Investigator. NSF Statistics Program, DMS-2515791, Innovations in Integrative Association Testing for Large Genetic Data, 2025–2028.\nCo-Investigator. NIH, UH3NS135168, IMPACT: Integrative Mindfulness-Based Predictive Approach for Chronic Low Back Pain Treatment (PI: Jean A. King), 2023–2028.\nCo-Investigator. NIH, R15AR085912, Foot biomechanics and metatarsal structure in runners with minimal and cushioned shoes (PI: Karen Troy), 2025–2028.\nCo-Principal Investigator. The Longitude Prize on ALS, Discovery Award, The ALS Genome-AI Initiative, awarded 2026.\nConsultant. Canadian Institutes of Health Research, Project Grant, Sex-specific biomechanical thresholds and cumulative risk models for sports-related brain injury (PI: Lyndia Wu, University of British Columbia), awarded 2026.\n\n\n\n\nCompleted\n\n\nCo-Investigator. NIH, R21NS136884, Biomechanical basis of sex differences in concussion and subconcussion (PI: Songbai Ji), 2024–2026.\nPrincipal Investigator. NSF Statistics Program, DMS-2113570, New Techniques to Combine Measures of Statistical Significance from Heterogeneous Data Sources with Application to Analysis of Genomic Data, 2021–2025.\nCo-Principal Investigator. NIH, UG3NS135168, IMPACT: Integrative Mindfulness-Based Predictive Approach for Chronic Low Back Pain Treatment (PI: Jean A. King), 2023–2025.\nCo-Investigator. NIH NICHD, R15HD104169, Biomechanical factors affecting metatarsal fatigue and bone stress injury risk (PI: Karen Troy), 2021–2024.\nPrincipal Investigator. NSF Statistics Program, DMS-1812082, Optimal and Adaptive p-Value Combination Methods with Application to ALS Exome Sequencing Study, 2018–2022.\nPrincipal Investigator. Sponsored Research Agreement, AbbVie Inc., Patient Subgrouping through Interactive Associations, 2017–2018.\nPrincipal Investigator. NSF Statistics Program, DMS-1309960, Optimal tests for weak, sparse, and complex signals with application to genetic association studies, 2013–2017.\nCo-Principal Investigator. NSF, DMS-1337943, MRI: Acquisition of High-Performance Computing System for Research, Education and Training (PI: Homer Walker), 2013–2017.\nCo-Investigator. NIH NHLBI, R15HL121761, Arrhythmia detection using a smartphone (PI: Ki H. Chon), 2014–2017.\nCo-Investigator. NIH NCI, R01CA166379, MR-Guided Precision Conformal Ablation Therapy for Brain Tumors (PI: Gregory Fischer), 2013–2018.\nCo-Investigator. NIH, R01AR063691, A Prospective Study of Human Bone Adaptation Using a Novel In-Vivo Loading Model (PI: Karen Troy), 2013–2017.\nPrincipal Investigator. Subcontract of an NIH grant, University of Massachusetts Medical School, Analysis of deep sequencing data to identify genes causative for neurodegenerative diseases, 2012–2014.\nSenior Personnel. NSF, DMS-1263127 and DMS-9732338, REU Site: Research Experiences for Undergraduates in Industrial Mathematics and Statistics (PI: Suzanne L. Weekes), 2010–2016."
   }
 ]

@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Statistical methods for combining dependent evidence, and the software and studies built on them">
 
 <title>Research – Zheyang Wu</title>
 <style>
@@ -31,11 +32,8 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<link href="../assets/images/favicon.svg" rel="icon" type="image/svg+xml">
 <script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -45,20 +43,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-445b8638c3d06994fee0907d791121c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-f04406aa7b650c23fd888a18e5195ace.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
-  "copy-button": false,
-  "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -73,8 +59,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<meta name="author" content="Zheyang Wu">
 
 
+<link rel="canonical" href="https://www.zheyangwu.org/research/">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -88,7 +76,6 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Zheyang Wu</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -134,6 +121,11 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">Research</h1>
 </div>
 
+<div>
+  <div class="description">
+    Statistical methods for combining dependent evidence, and the software and studies built on them
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
@@ -148,9 +140,147 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Placeholder.</p>
+<p>My research develops statistical methods for combining dependent evidence: p-value combination, signal detection and integrative association testing. The pieces of evidence to be combined, whether p-values from related tests, variants in a genomic region, or measurements from the same patients, are usually correlated. We study how to combine such evidence, how to compute the p-values of the combined tests accurately, and what the tests can detect, and we release the methods as R packages. The applications come from collaborations in genetics, neuroscience, biomechanics and clinical trials.</p>
+<section id="topics" class="level2">
+<h2 class="anchored" data-anchor-id="topics">Topics</h2>
+<section id="combining-dependent-p-values" class="level3">
+<h3 class="anchored" data-anchor-id="combining-dependent-p-values">Combining dependent p-values</h3>
+<p>Fisher’s combination and its relatives are the workhorses of meta-analysis and of set-based association tests, but their null distributions under dependence are hard to compute. We developed p-value calculations for a general family of Fisher-type statistics under dependence (the GFisher family), truncation and weighting schemes for Fisher’s combination (TFisher), and adjustment and combination methods for discrete p-values, which arise from small-sample and exact tests. Recent work studies the correlation robustness of supremum-based p-value combination tests.</p>
+<ul>
+<li><u>Hong Zhang</u> and <strong>Zheyang Wu</strong> (2022). The Generalized Fisher’s Combination and Accurate p-Value Calculation under Dependence. <em>Biometrics</em>. <a href="https://doi.org/10.1111/biom.13634">doi:10.1111/biom.13634</a></li>
+<li><u>Hong Zhang</u>, Tiejun Tong, John E. Landers and <strong>Zheyang Wu</strong> (2020). TFisher: A powerful truncation and weighting procedure for combining p-values. <em>Annals of Applied Statistics</em>, 14(1): 178–201. <a href="https://doi.org/10.1214/19-AOAS1302">doi:10.1214/19-AOAS1302</a></li>
+<li><u>Gonzalo Contador</u> and <strong>Zheyang Wu</strong> (2025). A minimum Wasserstein distance approach to Fisher’s combination of independent discrete p-values. <em>Scandinavian Journal of Statistics</em>, 52(3): 1281–1300. <a href="https://doi.org/10.1111/sjos.12787">doi:10.1111/sjos.12787</a></li>
+<li><u>Xiaohui Chen</u>, Fangfang Wang, <u>Hong Zhang</u> and <strong>Zheyang Wu</strong> (2026). On Correlation Robustness of Supremum-based p-Value Combination Tests. <em>Statistica Sinica</em>, accepted. <a href="https://doi.org/10.5705/ss.202025.0263">doi:10.5705/ss.202025.0263</a></li>
+</ul>
+</section>
+<section id="signal-detection-theory-and-computation" class="level3">
+<h3 class="anchored" data-anchor-id="signal-detection-theory-and-computation">Signal detection: theory and computation</h3>
+<p>When a few weak signals hide among many null features, the question is which statistics can detect them, and at what signal strength. We study detection boundaries and the finite-sample distributions of signal-detection statistics such as Higher Criticism and Berk-Jones, and we build approximations for the distributions that these and other tests need, including quadratic forms of Gaussian variables.</p>
+<ul>
+<li><strong>Zheyang Wu</strong>, <u>Yiming Sun</u>, <u>Shiquan He</u>, Judy Cho, Hongyu Zhao and Jiashun Jin (2014). Detection Boundary and Higher Criticism for Weak and Sparse Genetic Effects. <em>The Annals of Applied Statistics</em>, 8(2): 824–851. <a href="https://doi.org/10.1214/14-AOAS724">doi:10.1214/14-AOAS724</a></li>
+<li><u>Hong Zhang</u>, Jiashun Jin and <strong>Zheyang Wu</strong> (2020). Distributions and Power of Optimal Signal-Detection Statistics in Finite Case. <em>IEEE Transactions on Signal Processing</em>, 68: 1021–1033. <a href="https://ieeexplore.ieee.org/document/8961113">link</a></li>
+<li><u>Hong Zhang</u>, Judong Shen and <strong>Zheyang Wu</strong> (2021). An efficient and accurate approximation to the distribution of quadratic forms of Gaussian variables. <em>Journal of Computational and Graphical Statistics</em>. <a href="https://doi.org/10.1080/10618600.2021.2000423">doi:10.1080/10618600.2021.2000423</a></li>
+<li><strong>Zheyang Wu</strong> and Huibin Zhou (2013). Model Selection and Sharp Asymptotic Minimaxity. <em>Probability Theory and Related Fields</em>, 156(1-2): 165–191. <a href="https://doi.org/10.1007/s00440-012-0424-5">doi:10.1007/s00440-012-0424-5</a></li>
+</ul>
+</section>
+<section id="integrative-association-testing-for-sequencing-studies" class="level3">
+<h3 class="anchored" data-anchor-id="integrative-association-testing-for-sequencing-studies">Integrative association testing for sequencing studies</h3>
+<p>Whole-genome sequencing studies test regions that hold many rare variants of small effect. Power depends on how the variants are weighted and how their evidence is integrated. We develop integrated weighted association tests and study the signal-to-noise ratio of genetic associations, and we apply this work in genetic studies of amyotrophic lateral sclerosis (ALS) and osteoporosis. The GLOW software below implements integrative variant-set association tests with optimized weights for whole-genome sequencing studies.</p>
+<ul>
+<li><u>Hong Zhang</u>, <u>Ming Liu</u>, John E. Landers and <strong>Zheyang Wu</strong> (2026). Integrated Weighted Association Test with Application to Genetic Association Studies. <em>Annals of Applied Statistics</em>, accepted.</li>
+<li><u>Hong Zhang</u>, <u>Ming Liu</u>, Jiashun Jin and <strong>Zheyang Wu</strong> (2023). Signal-noise ratio of genetic associations and statistical power of SNP-set tests. <em>Annals of Applied Statistics</em>, 17(3): 2410–2431. <a href="https://doi.org/10.1214/22-AOAS1725">doi:10.1214/22-AOAS1725</a></li>
+<li><u>Xiaohui Chen</u>, <u>Hong Zhang</u>, <u>Ming Liu</u>, Hong-Wen Deng and <strong>Zheyang Wu</strong> (2022). Simultaneous detection of novel genes and SNPs by adaptive p-value combination. <em>Frontiers in Genetics</em>. <a href="https://doi.org/10.3389/fgene.2022.1009428">doi:10.3389/fgene.2022.1009428</a></li>
+<li>Bradley N. Smith et al.&nbsp;(2014). Exome-wide rare variant analysis identifies TUBA4A mutations associated with familial ALS. <em>Neuron</em>, 84(2): 324–331. <a href="https://doi.org/10.1016/j.neuron.2014.09.027">doi:10.1016/j.neuron.2014.09.027</a></li>
+</ul>
+</section>
+<section id="clinical-and-biomedical-studies" class="level3">
+<h3 class="anchored" data-anchor-id="clinical-and-biomedical-studies">Clinical and biomedical studies</h3>
+<p>With clinicians and engineers we design and analyse studies where the statistical question is part of the science: augmenting clinical trial data with external controls, and an assumption-agnostic deep learning framework for trial monitoring; predicting outcomes from biomechanical models of atherosclerotic plaques and of the brain under impact; and predicting patient-reported pain from wearable sensors.</p>
+<ul>
+<li><u>Shaoming Yin</u>, Jianchang Lin and <strong>Zheyang Wu</strong> (2026). Augmenting clinical trial data with external controls through energy balancing weighted power prior. <em>Statistics in Biopharmaceutical Research</em>. <a href="https://doi.org/10.1080/19466315.2025.2587049">doi:10.1080/19466315.2025.2587049</a></li>
+<li><u>Shaoming Yin</u>, <strong>Zheyang Wu</strong> and Jianchang Lin (2026). Assumption-agnostic deep learning framework for holistic clinical trial monitoring. <em>Therapeutic Innovation &amp; Regulatory Science</em>, 60: 782–797. <a href="https://doi.org/10.1007/s43441-026-00915-1">doi:10.1007/s43441-026-00915-1</a></li>
+<li>David Clement, Emmanuel Agu, Atifa Sarwar, Deepak Kumar, <strong>Zheyang Wu</strong> and Jean A. King (2026). Machine learning Prediction of Self-Reported Real-World Knee Osteoarthritis Pain from Wearable Accelerometer-Derived Gait Features. <em>Scientific Reports</em>, accepted. <a href="https://doi.org/10.1038/s41598-026-64594-6">doi:10.1038/s41598-026-64594-6</a></li>
+<li>Nan Lin, Shaoju Wu, <strong>Zheyang Wu</strong> and Songbai Ji (2024). Efficient Generation of Pretraining Samples for Developing a Deep Learning Brain Injury Model via Transfer Learning. <em>Annals of Biomedical Engineering</em>, 52(10): 2726–2740. <a href="https://doi.org/10.1007/s10439-023-03354-3">doi:10.1007/s10439-023-03354-3</a></li>
+</ul>
+</section>
+</section>
+<section id="software" class="level2">
+<h2 class="anchored" data-anchor-id="software">Software</h2>
+<p>Research software is in the <a href="https://github.com/ZWuLab">ZWuLab GitHub organization</a>; the first five packages below are on CRAN.</p>
+<table class="software-table caption-top table">
+<colgroup>
+<col style="width: 16%">
+<col style="width: 54%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Package</th>
+<th style="text-align: left;">What it does</th>
+<th style="text-align: left;">Where</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">GFisher</td>
+<td style="text-align: left;">p-values for the general family of Fisher-type combination statistics (Fisher, Good, Lancaster) under dependence</td>
+<td style="text-align: left;"><a href="https://CRAN.R-project.org/package=GFisher">CRAN</a> · <a href="https://github.com/ZWuLab/GFisher">GitHub</a> · <a href="https://zwulab.github.io/GFisher/">docs</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">TFisher</td>
+<td style="text-align: left;">optimal thresholding and weighting for Fisher’s p-value combination</td>
+<td style="text-align: left;"><a href="https://CRAN.R-project.org/package=TFisher">CRAN</a> · <a href="https://github.com/ZWuLab/TFisher">GitHub</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">DPComb</td>
+<td style="text-align: left;">combination tests for discrete p-values</td>
+<td style="text-align: left;"><a href="https://CRAN.R-project.org/package=DPComb">CRAN</a> · <a href="https://github.com/ZWuLab/DPComb">GitHub</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">SetTest</td>
+<td style="text-align: left;">group-testing procedures for signal detection and goodness of fit: Higher Criticism, Berk-Jones, one-sided Kolmogorov-Smirnov and phi-divergence tests, with distributions, power and random numbers</td>
+<td style="text-align: left;"><a href="https://CRAN.R-project.org/package=SetTest">CRAN</a> · <a href="https://github.com/ZWuLab/SetTest">GitHub</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Qapprox</td>
+<td style="text-align: left;">tail probabilities of quadratic forms of Gaussian variables</td>
+<td style="text-align: left;"><a href="https://CRAN.R-project.org/package=Qapprox">CRAN</a> · <a href="https://github.com/ZWuLab/Qapprox">GitHub</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">GLOWr</td>
+<td style="text-align: left;">integrative variant-set association analysis with optimized weights for whole-genome sequencing studies</td>
+<td style="text-align: left;"><a href="https://github.com/ZWuLab/GLOWr">GitHub</a> · <a href="https://zwulab.github.io/GLOWr/">docs</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">GLOWpipeline</td>
+<td style="text-align: left;">genome-wide GLOW scans: chunking, cluster job arrays, aggregation and locus merging</td>
+<td style="text-align: left;"><a href="https://github.com/ZWuLab/GLOWpipeline">GitHub</a> · <a href="https://zwulab.github.io/GLOWpipeline/">docs</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">GLOWanalyses</td>
+<td style="text-align: left;">runnable end-to-end workflow templates, configurations and batch scripts for sequencing studies</td>
+<td style="text-align: left;"><a href="https://github.com/ZWuLab/GLOWanalyses">GitHub</a></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="funding" class="level2">
+<h2 class="anchored" data-anchor-id="funding">Funding</h2>
+<section id="current" class="level3">
+<h3 class="anchored" data-anchor-id="current">Current</h3>
+<div class="plain-list">
+<ul>
+<li><strong>Principal Investigator.</strong> NSF Statistics Program, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2515791">DMS-2515791</a>, Innovations in Integrative Association Testing for Large Genetic Data, 2025–2028.</li>
+<li><strong>Co-Investigator.</strong> NIH, <a href="https://reporter.nih.gov/project-details/10992095">UH3NS135168</a>, IMPACT: Integrative Mindfulness-Based Predictive Approach for Chronic Low Back Pain Treatment (PI: Jean A. King), 2023–2028.</li>
+<li><strong>Co-Investigator.</strong> NIH, <a href="https://reporter.nih.gov/project-details/11124412">R15AR085912</a>, Foot biomechanics and metatarsal structure in runners with minimal and cushioned shoes (PI: Karen Troy), 2025–2028.</li>
+<li><strong>Co-Principal Investigator.</strong> The Longitude Prize on ALS, <a href="https://als.longitudeprize.org/discovery-award-teams">Discovery Award</a>, The ALS Genome-AI Initiative, awarded 2026.</li>
+<li><strong>Consultant.</strong> Canadian Institutes of Health Research, Project Grant, Sex-specific biomechanical thresholds and cumulative risk models for sports-related brain injury (PI: Lyndia Wu, University of British Columbia), awarded 2026.</li>
+</ul>
+</div>
+</section>
+<section id="completed" class="level3">
+<h3 class="anchored" data-anchor-id="completed">Completed</h3>
+<div class="plain-list">
+<ul>
+<li><strong>Co-Investigator.</strong> NIH, <a href="https://reporter.nih.gov/project-details/11098659">R21NS136884</a>, Biomechanical basis of sex differences in concussion and subconcussion (PI: Songbai Ji), 2024–2026.</li>
+<li><strong>Principal Investigator.</strong> NSF Statistics Program, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2113570">DMS-2113570</a>, New Techniques to Combine Measures of Statistical Significance from Heterogeneous Data Sources with Application to Analysis of Genomic Data, 2021–2025.</li>
+<li><strong>Co-Principal Investigator.</strong> NIH, <a href="https://reporter.nih.gov/project-details/10794463">UG3NS135168</a>, IMPACT: Integrative Mindfulness-Based Predictive Approach for Chronic Low Back Pain Treatment (PI: Jean A. King), 2023–2025.</li>
+<li><strong>Co-Investigator.</strong> NIH NICHD, <a href="https://reporter.nih.gov/project-details/10291521">R15HD104169</a>, Biomechanical factors affecting metatarsal fatigue and bone stress injury risk (PI: Karen Troy), 2021–2024.</li>
+<li><strong>Principal Investigator.</strong> NSF Statistics Program, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1812082">DMS-1812082</a>, Optimal and Adaptive p-Value Combination Methods with Application to ALS Exome Sequencing Study, 2018–2022.</li>
+<li><strong>Principal Investigator.</strong> Sponsored Research Agreement, AbbVie Inc., Patient Subgrouping through Interactive Associations, 2017–2018.</li>
+<li><strong>Principal Investigator.</strong> NSF Statistics Program, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1309960">DMS-1309960</a>, Optimal tests for weak, sparse, and complex signals with application to genetic association studies, 2013–2017.</li>
+<li><strong>Co-Principal Investigator.</strong> NSF, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1337943">DMS-1337943</a>, MRI: Acquisition of High-Performance Computing System for Research, Education and Training (PI: Homer Walker), 2013–2017.</li>
+<li><strong>Co-Investigator.</strong> NIH NHLBI, <a href="https://reporter.nih.gov/project-details/8689233">R15HL121761</a>, Arrhythmia detection using a smartphone (PI: Ki H. Chon), 2014–2017.</li>
+<li><strong>Co-Investigator.</strong> NIH NCI, <a href="https://reporter.nih.gov/project-details/8663200">R01CA166379</a>, MR-Guided Precision Conformal Ablation Therapy for Brain Tumors (PI: Gregory Fischer), 2013–2018.</li>
+<li><strong>Co-Investigator.</strong> NIH, <a href="https://reporter.nih.gov/project-details/8735611">R01AR063691</a>, A Prospective Study of Human Bone Adaptation Using a Novel In-Vivo Loading Model (PI: Karen Troy), 2013–2017.</li>
+<li><strong>Principal Investigator.</strong> Subcontract of an NIH grant, University of Massachusetts Medical School, Analysis of deep sequencing data to identify genes causative for neurodegenerative diseases, 2012–2014.</li>
+<li><strong>Senior Personnel.</strong> NSF, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1263127">DMS-1263127</a> and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=9732338">DMS-9732338</a>, REU Site: Research Experiences for Undergraduates in Industrial Mathematics and Statistics (PI: Suzanne L. Weekes), 2010–2016.</li>
+</ul>
+</div>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -563,10 +693,11 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>
     <div class="nav-footer-right">
-      &nbsp;
-    </div>
+<p>Built with Quarto</p>
+</div>
   </div>
 </footer>
+<script>document.querySelectorAll('button.navbar-toggler[role="menu"]').forEach(function (b) { b.removeAttribute('role'); });</script>
 
 
 
